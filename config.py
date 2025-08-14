@@ -1,0 +1,9 @@
+# Define constants
+MAX_CACHE_ITR = 20
+MAX_MEMBW_ITR = 20
+NUM_CPUS = 4
+
+# Define algorithm types
+ALGO_BASELINE_TEST = 0
+ALGO_RASCO = 1
+ALGO_BASELINE_SIM = 2

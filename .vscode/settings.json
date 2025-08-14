@@ -1,0 +1,5 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\rober\\Documents\\gcc\\winlibs-x86_64-posix-seh-gcc-14.2.0-mingw-w64ucrt-12.0.0-r1\\mingw64\\bin\\gcc.exe",
+    "python.REPL.enableREPLSmartSend": false,
+    "vim.handleKeys": { "<C-k>": false }
+}
